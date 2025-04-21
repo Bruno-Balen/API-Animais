@@ -1,0 +1,101 @@
+Código Único;Nome;Classificação;Origem;Tipo de Reprodução;Tipo de Alimentação
+1;Águia;Ave;América do Norte;Vivíparo;Carnívoro
+2;Tigre;Mamífero;Ásia;Vivíparo;Carnívoro
+3;Cobra;Réptil;Mundo;Oviparo;Carnívoro
+4;Sapo;Anfíbio;Mundo;Oviparo;Invertebrado
+5;Cavalo;Mamífero;Mundo;Vivíparo;Herbívoro
+6;Pinguim;Ave;Antártica;Oviparo;Carnívoro
+7;Tartaruga;Réptil;Mundo;Oviparo;Herbívoro
+8;Elefante;Mamífero;África;Vivíparo;Herbívoro
+9;Gato;Mamífero;Mundo;Vivíparo;Carnívoro
+10;Coelho;Mamífero;Mundo;Vivíparo;Herbívoro
+11;Cão;Mamífero;Mundo;Vivíparo;Carnívoro
+12;Leão;Mamífero;África;Vivíparo;Carnívoro
+13;Urso;Mamífero;Ártico;Vivíparo;Onívoro
+14;Golfinho;Mamífero;Oceano;Vivíparo;Carnívoro
+15;Canguru;Mamífero;Austrália;Vivíparo;Herbívoro
+16;Jacaré;Réptil;América do Sul;Oviparo;Carnívoro
+17;Lobo;Mamífero;América do Norte;Vivíparo;Carnívoro
+18;Coruja;Ave;Mundo;Oviparo;Carnívoro
+19;Cisne;Ave;Mundo;Oviparo;Herbívoro
+20;Foca;Mamífero;Oceano;Vivíparo;Carnívoro
+21;Aranha;Invertebrado;Mundo;Oviparo;Carnívoro
+22;Peixe-palhaço;Peixe;Oceano;Oviparo;Herbívoro
+23;Formiga;Invertebrado;Mundo;Oviparo;Onívoro
+24;Borboleta;Invertebrado;Mundo;Oviparo;Nectarívoro
+25;Rato;Mamífero;Mundo;Vivíparo;Onívoro
+26;Pato;Ave;Mundo;Oviparo;Onívoro
+27;Galo;Ave;Mundo;Oviparo;Onívoro
+28;Peregrino;Ave;Mundo;Oviparo;Carnívoro
+29;Puma;Mamífero;América do Sul;Vivíparo;Carnívoro
+30;Cobra-coral;Réptil;América;Oviparo;Carnívoro
+31;Baleia;Mamífero;Oceano;Vivíparo;Carnívoro
+32;Puma;Mamífero;América do Sul;Vivíparo;Carnívoro
+33;Caranguejo;Invertebrado;Mundo;Oviparo;Onívoro
+34;Peixe-gato;Peixe;Mundo;Oviparo;Carnívoro
+35;Lobo-marinho;Mamífero;Oceano;Vivíparo;Carnívoro
+36;Ovelha;Mamífero;Mundo;Vivíparo;Herbívoro
+37;Bicho-preguiça;Mamífero;América do Sul;Vivíparo;Herbívoro
+38;Cavalo-marinho;Peixe;Oceano;Oviparo;Herbívoro
+39;Morcego;Mamífero;Mundo;Vivíparo;Insectívoro
+40;Peixe-espada;Peixe;Oceano;Oviparo;Carnívoro
+41;Cacatua;Ave;Austrália;Oviparo;Herbívoro
+42;Tucano;Ave;Mundo;Oviparo;Frugívoro
+43;Orangotango;Mamífero;Ásia;Vivíparo;Herbívoro
+44;Urso-polar;Mamífero;Ártico;Vivíparo;Carnívoro
+45;Tamanduá;Mamífero;América do Sul;Vivíparo;Insectívoro
+46;Cobra-de-duas-cabeças;Réptil;Mundo;Oviparo;Carnívoro
+47;Furão;Mamífero;Mundo;Vivíparo;Carnívoro
+48;Galo;Ave;Mundo;Oviparo;Onívoro
+49;Pavão;Ave;Mundo;Oviparo;Herbívoro
+50;Lince;Mamífero;Mundo;Vivíparo;Carnívoro
+51;Bicho-da-seda;Invertebrado;Mundo;Oviparo;Herbívoro
+52;Mariposa;Invertebrado;Mundo;Oviparo;Nectarívoro
+53;Piranha;Peixe;América do Sul;Oviparo;Carnívoro
+54;Peixe-lua;Peixe;Oceano;Oviparo;Herbívoro
+55;Tigre-de-bengala;Mamífero;Ásia;Vivíparo;Carnívoro
+56;Cervo;Mamífero;Mundo;Vivíparo;Herbívoro
+57;Hiena;Mamífero;África;Vivíparo;Carnívoro
+58;Lobo-guará;Mamífero;Brasil;Vivíparo;Onívoro
+59;Arara;Ave;Mundo;Oviparo;Frugívoro
+60;Bicho-preguiça;Mamífero;América do Sul;Vivíparo;Herbívoro
+61;Peixe-gato;Peixe;Mundo;Oviparo;Carnívoro
+62;Robalo;Peixe;Oceano;Oviparo;Carnívoro
+63;Cavalo-marinho;Peixe;Oceano;Oviparo;Herbívoro
+64;Foca;Mamífero;Oceano;Vivíparo;Carnívoro
+65;Baleia-jubarte;Mamífero;Oceano;Vivíparo;Carnívoro
+66;Canguru;Mamífero;Austrália;Vivíparo;Herbívoro
+67;Tamanduá-bandeira;Mamífero;América do Sul;Vivíparo;Insectívoro
+68;Cacatua;Ave;Austrália;Oviparo;Herbívoro
+69;Peixe-espada;Peixe;Oceano;Oviparo;Carnívoro
+70;Cobra;Réptil;Mundo;Oviparo;Carnívoro
+71;Macaco-prego;Mamífero;América do Sul;Vivíparo;Onívoro
+72;Panda;Mamífero;Ásia;Vivíparo;Herbívoro
+73;Cervo;Mamífero;Mundo;Vivíparo;Herbívoro
+74;Bisonte;Mamífero;América do Norte;Vivíparo;Herbívoro
+75;Rena;Mamífero;Ártico;Vivíparo;Herbívoro
+76;Capivara;Mamífero;Brasil;Vivíparo;Herbívoro
+77;Peixe-gato;Peixe;Mundo;Oviparo;Carnívoro
+78;Cacatua;Ave;Austrália;Oviparo;Herbívoro
+79;Robalo;Peixe;Oceano;Oviparo;Carnívoro
+80;Pinguim;Ave;Antártica;Oviparo;Carnívoro
+81;Corvo;Ave;Mundo;Oviparo;Onívoro
+82;Falcão;Ave;Mundo;Oviparo;Carnívoro
+83;Tartaruga;Réptil;Mundo;Oviparo;Herbívoro
+84;Gato;Mamífero;Mundo;Vivíparo;Carnívoro
+85;Cão;Mamífero;Mundo;Vivíparo;Carnívoro
+86;Macaco-aranha;Mamífero;América do Sul;Vivíparo;Onívoro
+87;Leão-marinho;Mamífero;Oceano;Vivíparo;Carnívoro
+88;Urso-polar;Mamífero;Ártico;Vivíparo;Carnívoro
+89;Cavalo;Mamífero;Mundo;Vivíparo;Herbívoro
+90;Peixe-borboleta;Peixe;Oceano;Oviparo;Herbívoro
+91;Peixe-anjo;Peixe;Oceano;Oviparo;Herbívoro
+92;Peixe-lua;Peixe;Oceano;Oviparo;Herbívoro
+93;Peixe-palhaço;Peixe;Oceano;Oviparo;Herbívoro
+94;Peixe-bandeira;Peixe;Oceano;Oviparo;Herbívoro
+95;Peixe-dourado;Peixe;Mundo;Oviparo;Herbívoro
+96;Peixe-gato;Peixe;Mundo;Oviparo;Carnívoro
+97;Peixe-sapo;Peixe;Oceano;Oviparo;Carnívoro
+98;Peixe-lobo;Peixe;Oceano;Oviparo;Carnívoro
+99;Peixe-papagaio;Peixe;Oceano;Oviparo;Herbívoro
+100;Peixe-escorpião;Peixe;Oceano;Oviparo;Carnívoro
