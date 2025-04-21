@@ -63,6 +63,7 @@ namespace API_csv.Controllers
         {
             Animal animal = _dBContext.Animais.Find(a => a.Id == boddy.Id);
 
+            //Valida se o nome envia não está vazio.
             if (animal == null || string.IsNullOrEmpty(boddy.Name))
             {
                 return NotFound();
@@ -83,9 +84,10 @@ namespace API_csv.Controllers
                 return BadRequest();
             }
 
-            // Validação dos campos obrigatórios, ignorando o ID
+            // Validação dos campos obrigatórios, ignorando o ID.
             foreach (var property in typeof(Animal).GetProperties())
             {
+                //Ignora id pois ai ser gerado automaticamente.
                 if (property.Name == "Id") continue;
 
                 var value = property.GetValue(animal);
@@ -111,7 +113,7 @@ namespace API_csv.Controllers
             if (animal == null)
                 return BadRequest("Animal não informado.");
 
-            // Verifica se algum campo obrigatório está vazio
+            // Verifica se algum campo obrigatório está vazio.
             if (string.IsNullOrEmpty(animal.Name) || string.IsNullOrEmpty(animal.Description) ||
                 string.IsNullOrEmpty(animal.Origin) || string.IsNullOrEmpty(animal.Reproduction) ||
                 string.IsNullOrEmpty(animal.Feeding))
@@ -119,12 +121,12 @@ namespace API_csv.Controllers
                 return BadRequest("Todos os campos são obrigatórios.");
             }
 
-            // Localiza o animal na lista
+            // Localiza o animal na lista.
             var animalExistente = _dBContext.Animais.FirstOrDefault(a => a.Id == id);
             if (animalExistente == null)
                 return NotFound();
 
-            // Atualiza os dados
+            // Atualiza os dados.
             animalExistente.Name = animal.Name;
             animalExistente.Description = animal.Description;
             animalExistente.Origin = animal.Origin;
